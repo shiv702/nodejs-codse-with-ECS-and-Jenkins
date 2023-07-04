@@ -19,7 +19,7 @@ Jenkins declarative pipeline that is triggered on every commit.
 
 Docker images will be stored in AWS ECR.
 
-4. ECS
+4. ECS chnages done
 
 Aplication will be deployed in AWS ECS.
 
