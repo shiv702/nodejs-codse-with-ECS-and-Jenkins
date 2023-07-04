@@ -11,7 +11,7 @@ CI/CD to test, build, push and deploy the NodeJS Dokerized app to AWS ECS using 
 
 This contains our sample nodes application code.
 
-2. Jenkins
+2. Jenkins done
 
 Jenkins declarative pipeline that is triggered on every commit.
 
